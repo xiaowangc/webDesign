@@ -4,9 +4,6 @@ package controller;
 import domain.Atm;
 import mymvc.Param;
 import mymvc.RequestMapping;
-
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.util.HashMap;
 
 /**
